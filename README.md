@@ -5,7 +5,7 @@ Projet Python / Jupyter Notebook d'Analyse Exploratoire de Données (EDA). Netto
 
 ## Présentation du Projet
 
-Ce travzil contient un projet d'analyse exploratoire de données (EDA) réalisé dans le cadre d'un devoir d'analyse de données.
+Ce travail contient un projet d'analyse exploratoire de données (EDA) réalisé dans le cadre d'un devoir d'analyse de données.
 
 L'objectif principal est d'utiliser Python et la librairie Pandas pour nettoyer, transformer et analyser un jeu de données d'entreprise afin d'en extraire des informations clés et d'établir des visualisations pertinentes (ventes, répartition par catégorie, etc.).
 
